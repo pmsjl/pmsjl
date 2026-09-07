@@ -1,0 +1,4 @@
+.profile-build/
+profile-3d-contrib/
+__pycache__/
+*.tmp

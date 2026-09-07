@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="28" viewBox="0 0 880 28" role="img">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif}.trail{animation:travel 8s ease-in-out infinite alternate}@keyframes travel{to{transform:translateX(660px)}}@media(prefers-reduced-motion:reduce){.trail{animation:none;transform:translateX(330px)}}*{animation:none!important}.phrase{opacity:0!important}.p1{opacity:1!important}.reveal{width:610px!important}.cursor{opacity:0!important}</style>
+<defs><linearGradient id="trail"><stop stop-color="#3B82F6" stop-opacity="0"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient></defs>
+<path d="M0 14H880" stroke="#8B5CF6" opacity=".18"/><rect class="trail" x="0" y="12" width="220" height="4" rx="2" fill="url(#trail)"/>
+</svg>

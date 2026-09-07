@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="132" viewBox="0 0 880 132" role="img">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif}.wave{animation:wave 9s ease-in-out infinite}@keyframes wave{50%{transform:translate(26px,5px)}}@media(prefers-reduced-motion:reduce){.wave{animation:none}}*{animation:none!important}.phrase{opacity:0!important}.p1{opacity:1!important}.reveal{width:610px!important}.cursor{opacity:0!important}</style>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0F172A"/><stop offset=".58" stop-color="#172554"/><stop offset="1" stop-color="#35215e"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#3B82F6"/><stop offset=".55" stop-color="#8B5CF6"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#8B5CF6" stop-opacity=".3"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+</defs><rect width="880" height="132" rx="14" fill="url(#bg)"/>
+<g class="wave" fill="none" stroke="url(#line)" stroke-width="2" opacity=".8"><path d="M-70 25Q90 -5 260 24T580 20T950 20"/><path d="M-70 34Q100 2 280 35T600 29T950 31" opacity=".45"/></g>
+<text x="440" y="80" text-anchor="middle" fill="#e2e8f0" font-size="20" letter-spacing="2">THANKS FOR STOPPING BY</text><text x="440" y="108" text-anchor="middle" fill="#a5b4fc" font-size="13">Junjie Xu · pmsjl</text>
+</svg>
