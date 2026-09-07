@@ -65,7 +65,7 @@ class JunjieXu:
 
 `Java` `Python` `Spring Boot` `FastAPI` `MySQL` `Redis` `Vue` `FAISS`
 
-**[在线体验 ↗](https://market.pmsjl.com/)** · [查看源码](https://github.com/pmsjl/sharing-market) · [架构与评测文档](https://github.com/pmsjl/sharing-market#readme)
+**[在线体验 ↗](https://market.pmsjl.com/)** · [源码](https://github.com/pmsjl/sharing-market)
 
 ---
 
@@ -82,26 +82,19 @@ class JunjieXu:
 
 `React` `TypeScript` `Spring Boot` `MySQL` `Docker Compose` `Cloudflare`
 
-**[在线体验 ↗](https://verbal.pmsjl.com/)** · [查看源码](https://github.com/pmsjl/verbal_test)
+**[在线体验 ↗](https://verbal.pmsjl.com/)** · [源码](https://github.com/pmsjl/verbal_test)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>AircraftGame</h3>
-<p>基于 Java Swing 的飞机大战，包含三档难度、Boss 战、多种敌机与道具，以及排行榜持久化。</p>
-<p>在游戏循环、射击方式和对象创建中实践面向对象设计与设计模式。</p>
-<p><code>Java</code> <code>Swing</code> <code>OOP</code></p>
-<a href="https://github.com/pmsjl/AircraftGame">查看源码 ↗</a>
-</td>
-<td width="50%" valign="top">
-<h3>Personal Portfolio</h3>
-<p>个人网站，集中展示项目、技术经历与联系方式，提供 PDF 简历入口。</p>
-<p>可以从这里了解项目背景，再进入在线应用或代码仓库。</p>
-<p><code>Portfolio</code> <code>GitHub Pages</code></p>
-<a href="https://pmsjl.github.io/portfolio/">访问网站 ↗</a> · <a href="https://github.com/pmsjl/portfolio">源码</a>
-</td>
-</tr>
-</table>
+---
+
+### AircraftGame
+
+基于 Java Swing 的飞机大战，包含三档难度、Boss 战、多种敌机与道具，以及排行榜持久化。
+
+在游戏循环、射击方式和对象创建中实践面向对象设计与设计模式。
+
+`Java` `Swing` `OOP`
+
+[源码 ↗](https://github.com/pmsjl/AircraftGame)
 
 <picture>
 <source media="(prefers-reduced-motion: reduce)" srcset="./assets/divider-static.svg" />
@@ -160,9 +153,9 @@ class JunjieXu:
 
 ## 07 / Let's connect
 
-目前寻找 **AI 应用开发实习机会（深圳）**，关注 Agent、RAG 与后端工程。欢迎体验项目、阅读源码，或通过邮件交流。
+目前寻找 **AI 应用开发实习机会（深圳）**，欢迎通过邮件联系。
 
-**[个人网站](https://pmsjl.github.io/portfolio/)** · **[2024311001@stu.hit.edu.cn](mailto:2024311001@stu.hit.edu.cn)**
+**[2024311001@stu.hit.edu.cn](mailto:2024311001@stu.hit.edu.cn)**
 
 <picture>
 <source media="(prefers-reduced-motion: reduce)" srcset="./assets/footer-static.svg" />
