@@ -144,6 +144,13 @@ class JunjieXu:
 <img src="./assets/generated/snake-light.svg" width="100%" alt="pmsjl 的公开贡献贪吃蛇；首次启用工作流前显示等待生成提示" />
 </picture>
 
+### Contribution overview
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/generated/city-dark.svg" />
+<img src="./assets/generated/city-light.svg" width="100%" alt="pmsjl 的提交贡献与仓库语言占比，不展示 Issues、PR 和 Review 统计" />
+</picture>
+
 ## 07 / Let's connect
 
 目前寻找 **AI 应用开发实习机会（深圳）**，欢迎通过邮件联系。
