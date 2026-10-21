@@ -151,12 +151,6 @@ class JunjieXu:
 <img src="./assets/generated/city-light.svg" width="100%" alt="pmsjl 的提交贡献与仓库语言占比，不展示 Issues、PR 和 Review 统计" />
 </picture>
 
-## 07 / Let's connect
-
-目前寻找 **AI 应用开发实习机会（深圳）**，欢迎通过邮件联系。
-
-**[2024311001@stu.hit.edu.cn](mailto:2024311001@stu.hit.edu.cn)**
-
 <picture>
 <source media="(prefers-reduced-motion: reduce)" srcset="./assets/footer-static.svg" />
 <img src="./assets/footer.svg" width="100%" alt="Thanks for visiting · Junjie Xu" />
